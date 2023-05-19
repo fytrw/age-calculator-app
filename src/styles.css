@@ -116,6 +116,9 @@ div.error{
   cursor: pointer;
   border-radius: 50%;
 }
+.btn:hover{
+  background-color: #151515;
+}
 
 .resultDateContainer {
   display: flex;
