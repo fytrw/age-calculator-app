@@ -8,6 +8,4 @@
 
 ### Links
 
-[GithubPages Link]()
-
-[Vercel Link]()
+[GithubPages Link](https://fytrw.github.io/age-calculator-app/)
