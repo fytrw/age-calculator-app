@@ -115,6 +115,7 @@ div.error{
   height: 96px;
   cursor: pointer;
   border-radius: 50%;
+  transition: background-color 0.2s ease-in-out;
 }
 .btn:hover{
   background-color: #151515;
